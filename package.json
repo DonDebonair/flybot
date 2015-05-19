@@ -5,7 +5,7 @@
   "author": "Daan Debie <debie.daan@gmail.com>",
   "description": "Our own Slack penguin",
   "dependencies": {
-    "htmlparser": "^1.7.7",
+    "htmlparser": "1.7.6",
     "hubot": "^2.12.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
@@ -20,7 +20,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
     "hubot-youtube": "^0.1.2",
-    "jsdom": "^5.4.1",
+    "jsdom": "0.8.6",
     "soupselect": "^0.2.0"
   },
   "engines": {
